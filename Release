@@ -2,12 +2,12 @@ Origin: cydia51
 Label: cydia51
 Suite: stable
 Version: 1.0
-Codename: jackie099
+Codename: cydia51
 Architectures: iphoneos-arm
 Components: main
 Description: 常用软件源
 MD5Sum:
  e6f68e0808ca1afa98ca084c2b434cf4 279 Packages
  7dbef77e1668d1729d27b48cbb56b039 245 Packages.bz2
- 72a2f3add7f33e907de53453e4099353 233 Packages.gz
+ 3e2c723581a3c621c695c97721293119 233 Packages.gz
 
